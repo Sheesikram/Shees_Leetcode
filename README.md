@@ -1,7 +1,3 @@
-Here’s a simple and effective **README** file for your LeetCode solutions repository in Python:
-
----
-
 # LeetCode Solutions in Python
 
 Welcome to the **LeetCode Solutions in Python** repository! This collection contains solutions to various LeetCode problems, written in Python. Each solution is designed to be clean, efficient, and easy to understand. The repository is regularly updated with new solutions as more problems are solved.
